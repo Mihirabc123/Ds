@@ -76,7 +76,7 @@ ul li a:hover {
 	text-decoration: none;
 	color:black;
 }
-@media screen and (max-width: 600px){
+@media screen and (max-width: 900px){
 	.menu{
 		text-align: center;
 	    border: 0.6px solid;
